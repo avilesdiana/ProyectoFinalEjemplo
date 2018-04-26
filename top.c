@@ -3,6 +3,6 @@
 #include<stdlib.h>
 
 int main(int argc, char const *argv[]) {
-  printf("\ntopología\n");
+  printf("\ntopología GG\n");
 
 }
